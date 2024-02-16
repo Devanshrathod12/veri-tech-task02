@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/veri-tech-task02/static/css/main.27345e69.css",
+    "main.js": "/veri-tech-task02/static/js/main.98d39f40.js",
+    "index.html": "/veri-tech-task02/index.html",
+    "main.27345e69.css.map": "/veri-tech-task02/static/css/main.27345e69.css.map",
+    "main.98d39f40.js.map": "/veri-tech-task02/static/js/main.98d39f40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27345e69.css",
+    "static/js/main.98d39f40.js"
+  ]
+}
